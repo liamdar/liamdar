@@ -1096,14 +1096,6 @@
                 </div>
                 <div class="row">
                     <section class="column chart">
-                        <h3>Projects activity</h3>
-                        <div class="chart-bars horizontal">
-                            <div class="entry">
-                                <div class="empty">No activity</div>
-                            </div>
-                        </div>
-                    </section>
-                    <section class="column chart">
                         <h3>Language activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">

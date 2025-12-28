@@ -35,10 +35,10 @@ jobs:
                 </stop>
               </linearGradient>
             </defs>
-            <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="72" font-family="Arial" fill="url(#gradient)">
-              Pro
+            <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="32" font-family="Arial" fill="url(#gradient)">
+              Dog Lover
             </text>
-            <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="72" font-family="Arial" fill="none" stroke="black" stroke-width="2">
+            <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="32" font-family="Arial" fill="none" stroke="black" stroke-width="2">
               <animate attributeName="stroke-dasharray" from="0,300" to="300,0" dur="2s" repeatCount="indefinite"/>
             </text>
           </svg>

@@ -1,0 +1,18 @@
+<svg width="300" height="100" viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF6B6B">
+        <animate attributeName="stop-color" values="#FF6B6B;#FFD93D;#6BCB77;#4D96FF;#FF6B6B" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#4D96FF">
+        <animate attributeName="stop-color" values="#4D96FF;#6BCB77;#FFD93D;#FF6B6B;#4D96FF" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="32" font-family="Arial" fill="url(#gradient)">
+    Dog Lover
+  </text>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="32" font-family="Arial" fill="none" stroke="black" stroke-width="2">
+    <animate attributeName="stroke-dasharray" from="0,300" to="300,0" dur="2s" repeatCount="indefinite"/>
+  </text>
+</svg>
